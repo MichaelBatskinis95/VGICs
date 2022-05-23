@@ -7,8 +7,8 @@ Reincarnation of our original work, that was published in Journal of Proteome Re
 ### Data Retrieval & Merging
 
 1. Data regarding missense SNPs of human VGICs were retrieved from the FTP servers of UniProtKB & ClinVardb
-2. Adapt a common reference code for the characterization of SNPs' clinical significance
-3. Merge the two datasets to form a conlusive & non-redudant dataset of missense SNPs for human VGICs
+2. A common reference code for the characterization of SNPs' clinical significance was adapted
+3. The 2 datasets were merged to form a conlusive & non-redudant dataset of missense SNPs for human VGICs
 
 ### Mapping of SNPs on Biologically Significant Regions
 
